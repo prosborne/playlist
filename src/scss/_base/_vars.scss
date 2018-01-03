@@ -1,0 +1,35 @@
+// Colors
+$gray-dark:           #232323;
+$blue-base:           #031634;
+$teal-base:           #033649;
+$teal-light:          #036564;
+$gold-base:           #cdb380;
+$white:               #e8ddcb;
+
+// Font colors
+$type-primary:        $white;
+$type-link:           $gold-base;
+$type-link-active:    lighten($gold-base, 20%);
+$dash-lifetime:       $gold-base;
+$dash-base:           $teal-light;
+
+// Component colors
+$bg-main:             $blue-base;
+$bg-shine:            lighten($blue-base, 10%);
+$bg-tab-active:       $teal-base;
+$bg-list:             $teal-base;
+$dash-year:           #031e39;
+$dash-month:          #03213b;
+$dash-day-week:       #03243d;
+$table-row-header:    #03263e;
+$table-row-even:      #032e44;
+
+// Font family
+$typeface-headline:   'Oswald';
+$typeface-body:       'Ubuntu';
+$typeface-serif:      'Merriweather';
+
+// design standards
+$border-radius:      .5rem;
+$border-radius-tab:  .25rem .25rem 0 0;
+$border-radius-dash: 0 0 .5rem .5rem;
