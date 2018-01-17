@@ -5,6 +5,7 @@ class List extends Component {
         return (
             <div>
                 <h1>List Management</h1>
+                <p>content goes here</p>
             </div>
         )
     }

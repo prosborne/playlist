@@ -18,7 +18,7 @@ firebase.initializeApp(config);
 const Nav = () => (
     <nav>
         <Link className="item" to="/">Dashboard</Link>
-        <Link className="item" to="/lists">Manage Lists</Link>
+        <Link className="item" to="/list">Manage Lists</Link>
         <Link className="item" to="/user">User Account</Link>
     </nav>
 )

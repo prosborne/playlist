@@ -1,1 +1,11 @@
-node_modules
+*.log
+**/*.log
+.DS_Store
+**/.DS_Store
+**/dist
+**/node_modules
+coverage
+src/config.js
+functions/etc
+functions/dist
+functions/.runtimeconfig.json
